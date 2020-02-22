@@ -2,6 +2,8 @@
 #include <iomanip>
 #include <cassert>
 
+#include "Solution.h"
+
 // In diesem Beispiel soll eine Kasse simuliert werden. Mit "add_position soll ein Eintrag hinzugefügt werden, also so
 // als ob der Kassierer was über den Scanner zieht.
 // Im Beispiel gibt es zwei Arten von Einträgen: Ein Eintrag für Stückware ("PerPiecePosition") und einer für
